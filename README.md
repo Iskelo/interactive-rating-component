@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenShot.jpg)
+![Screenshot](design/screenShot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/Iskelo/interactive-rating-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
